@@ -1,0 +1,137 @@
+https://www.google.com- online : true
+https://www.caelum.com.br- online : true
+https://www.alura.com.br- online : true
+https://www.g1.com.br- online : true
+https://www.google.com- online : true
+https://www.caelum.com.br- online : true
+https://www.alura.com.br- online : true
+https://www.g1.com.br- online : true
+https://www.google.com- online : true
+https://www.caelum.com.br- online : true
+https://www.alura.com.br- online : true
+https://www.g1.com.br- online : true
+30/11/2024 23:16:31 - site-false - online: false
+30/11/2024 23:16:35 - https://www.google.com - online: true
+30/11/2024 23:16:35 - https://www.caelum.com.br - online: true
+30/11/2024 23:16:35 - https://www.alura.com.br - online: true
+30/11/2024 23:16:35 - https://www.g1.com.br - online: true
+30/11/2024 23:16:41 - https://www.google.com - online: true
+30/11/2024 23:16:41 - https://www.caelum.com.br - online: true
+30/11/2024 23:16:41 - https://www.alura.com.br - online: true
+30/11/2024 23:16:41 - https://www.g1.com.br - online: true
+30/11/2024 23:16:47 - https://www.google.com - online: true
+30/11/2024 23:16:47 - https://www.caelum.com.br - online: true
+30/11/2024 23:16:47 - https://www.alura.com.br - online: true
+30/11/2024 23:16:47 - https://www.g1.com.br - online: true
+30/11/2024 23:17:20 - site-false - online: false
+30/11/2024 23:21:58 - site-false - online: false
+30/11/2024 23:23:05 - site-false - online: false
+30/11/2024 23:23:07 - https://www.google.com - online: true
+30/11/2024 23:23:07 - https://www.caelum.com.br - online: true
+30/11/2024 23:23:07 - https://www.alura.com.br - online: true
+30/11/2024 23:23:07 - https://www.g1.com.br - online: true
+30/11/2024 23:23:13 - https://www.google.com - online: true
+30/11/2024 23:23:13 - https://www.caelum.com.br - online: true
+30/11/2024 23:23:13 - https://www.alura.com.br - online: true
+30/11/2024 23:23:13 - https://www.g1.com.br - online: true
+30/11/2024 23:23:18 - https://www.google.com - online: true
+30/11/2024 23:23:19 - https://www.caelum.com.br - online: true
+30/11/2024 23:23:19 - https://www.alura.com.br - online: true
+30/11/2024 23:23:19 - https://www.g1.com.br - online: true
+30/11/2024 23:24:44 - site-false - online: false
+30/11/2024 23:24:52 - https://www.google.com - online: true
+30/11/2024 23:24:52 - https://www.caelum.com.br - online: true
+30/11/2024 23:24:53 - https://www.alura.com.br - online: true
+30/11/2024 23:24:53 - https://www.g1.com.br - online: true
+30/11/2024 23:24:58 - https://www.google.com - online: true
+30/11/2024 23:24:58 - https://www.caelum.com.br - online: true
+30/11/2024 23:24:58 - https://www.alura.com.br - online: true
+30/11/2024 23:24:58 - https://www.g1.com.br - online: true
+30/11/2024 23:25:04 - https://www.google.com - online: true
+30/11/2024 23:25:04 - https://www.caelum.com.br - online: true
+30/11/2024 23:25:04 - https://www.alura.com.br - online: true
+30/11/2024 23:25:04 - https://www.g1.com.br - online: true
+30/11/2024 23:25:51 - https://www.google.com - online: true
+30/11/2024 23:25:51 - https://www.caelum.com.br - online: true
+30/11/2024 23:25:51 - https://www.alura.com.br - online: true
+30/11/2024 23:25:51 - https://www.g1.com.br - online: true
+30/11/2024 23:25:56 - https://www.google.com - online: true
+30/11/2024 23:25:56 - https://www.caelum.com.br - online: true
+30/11/2024 23:25:56 - https://www.alura.com.br - online: true
+30/11/2024 23:25:56 - https://www.g1.com.br - online: true
+30/11/2024 23:26:02 - https://www.google.com - online: true
+30/11/2024 23:26:02 - https://www.caelum.com.br - online: true
+30/11/2024 23:26:02 - https://www.alura.com.br - online: true
+30/11/2024 23:26:02 - https://www.g1.com.br - online: true
+30/11/2024 23:27:10 - https://www.google.com - online: true
+30/11/2024 23:27:10 - https://www.caelum.com.br - online: true
+30/11/2024 23:27:10 - https://www.alura.com.br - online: true
+30/11/2024 23:27:11 - https://www.g1.com.br - online: true
+30/11/2024 23:27:16 - https://www.google.com - online: true
+30/11/2024 23:27:16 - https://www.caelum.com.br - online: true
+30/11/2024 23:27:16 - https://www.alura.com.br - online: true
+30/11/2024 23:27:16 - https://www.g1.com.br - online: true
+30/11/2024 23:27:22 - https://www.google.com - online: true
+30/11/2024 23:27:22 - https://www.caelum.com.br - online: true
+30/11/2024 23:27:22 - https://www.alura.com.br - online: true
+30/11/2024 23:27:22 - https://www.g1.com.br - online: true
+30/11/2024 23:28:50 - https://www.google.com - online: true
+30/11/2024 23:28:50 - https://www.caelum.com.br - online: true
+30/11/2024 23:28:50 - https://www.alura.com.br - online: true
+30/11/2024 23:28:50 - https://www.g1.com.br - online: true
+30/11/2024 23:28:55 - https://www.google.com - online: true
+30/11/2024 23:28:55 - https://www.caelum.com.br - online: true
+30/11/2024 23:28:55 - https://www.alura.com.br - online: true
+30/11/2024 23:28:55 - https://www.g1.com.br - online: true
+30/11/2024 23:29:01 - https://www.google.com - online: true
+30/11/2024 23:29:01 - https://www.caelum.com.br - online: true
+30/11/2024 23:29:01 - https://www.alura.com.br - online: true
+30/11/2024 23:29:01 - https://www.g1.com.br - online: true
+30/11/2024 23:30:04 - https://www.google.com - online: true
+30/11/2024 23:30:04 - https://www.caelum.com.br - online: true
+30/11/2024 23:30:04 - https://www.alura.com.br - online: true
+30/11/2024 23:30:04 - https://www.g1.com.br - online: true
+30/11/2024 23:30:10 - https://www.google.com - online: true
+30/11/2024 23:30:10 - https://www.caelum.com.br - online: true
+30/11/2024 23:30:10 - https://www.alura.com.br - online: true
+30/11/2024 23:30:10 - https://www.g1.com.br - online: true
+30/11/2024 23:30:15 - https://www.google.com - online: true
+30/11/2024 23:30:15 - https://www.caelum.com.br - online: true
+30/11/2024 23:30:15 - https://www.alura.com.br - online: true
+30/11/2024 23:30:15 - https://www.g1.com.br - online: true
+30/11/2024 23:33:28 - https://www.google.com - online: true
+30/11/2024 23:33:29 - https://www.caelum.com.br - online: true
+30/11/2024 23:33:29 - https://www.alura.com.br - online: true
+30/11/2024 23:33:29 - https://www.g1.com.br - online: true
+30/11/2024 23:33:34 - https://www.google.com - online: true
+30/11/2024 23:33:34 - https://www.caelum.com.br - online: true
+30/11/2024 23:33:34 - https://www.alura.com.br - online: true
+30/11/2024 23:33:34 - https://www.g1.com.br - online: true
+30/11/2024 23:33:40 - https://www.google.com - online: true
+30/11/2024 23:33:40 - https://www.caelum.com.br - online: true
+30/11/2024 23:33:40 - https://www.alura.com.br - online: true
+30/11/2024 23:33:40 - https://www.g1.com.br - online: true
+30/11/2024 23:36:50 - https://www.google.com - online: true
+30/11/2024 23:36:50 - https://www.caelum.com.br - online: true
+30/11/2024 23:36:50 - https://www.alura.com.br - online: true
+30/11/2024 23:36:50 - https://www.g1.com.br - online: true
+30/11/2024 23:36:56 - https://www.google.com - online: true
+30/11/2024 23:36:56 - https://www.caelum.com.br - online: true
+30/11/2024 23:36:56 - https://www.alura.com.br - online: true
+30/11/2024 23:36:56 - https://www.g1.com.br - online: true
+30/11/2024 23:37:01 - https://www.google.com - online: true
+30/11/2024 23:37:02 - https://www.caelum.com.br - online: true
+30/11/2024 23:37:02 - https://www.alura.com.br - online: true
+30/11/2024 23:37:02 - https://www.g1.com.br - online: true
+30/11/2024 23:40:25 - https://www.google.com - online: true
+30/11/2024 23:40:25 - https://www.caelum.com.br - online: true
+30/11/2024 23:40:25 - https://www.alura.com.br - online: true
+30/11/2024 23:40:25 - https://www.g1.com.br - online: true
+30/11/2024 23:40:31 - https://www.google.com - online: true
+30/11/2024 23:40:31 - https://www.caelum.com.br - online: true
+30/11/2024 23:40:31 - https://www.alura.com.br - online: true
+30/11/2024 23:40:31 - https://www.g1.com.br - online: true
+30/11/2024 23:40:36 - https://www.google.com - online: true
+30/11/2024 23:40:36 - https://www.caelum.com.br - online: true
+30/11/2024 23:40:36 - https://www.alura.com.br - online: true
+30/11/2024 23:40:36 - https://www.g1.com.br - online: true
